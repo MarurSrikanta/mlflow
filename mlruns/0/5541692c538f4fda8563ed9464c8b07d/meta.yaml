@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marur/Downloads/mlflow/mlflow_linearregression/mlruns/0/5541692c538f4fda8563ed9464c8b07d/artifacts
+end_time: 1631564444556
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 5541692c538f4fda8563ed9464c8b07d
+run_uuid: 5541692c538f4fda8563ed9464c8b07d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1631564442753
+status: 3
+tags: []
+user_id: marur
